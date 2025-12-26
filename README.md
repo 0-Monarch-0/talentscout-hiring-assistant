@@ -101,7 +101,7 @@ talentscout-hiring-assistant/
 
 ```bash
 # Clone the repository
-git clone <your-repository-link>
+git clone https://github.com/0-Monarch-0/talentscout-hiring-assistant
 cd talentscout-hiring-assistant
 
 # Create and activate virtual environment
@@ -162,3 +162,4 @@ These enhancements were intentionally kept out of scope for this assignment.
 
 This project demonstrates a practical and controlled use of a language model within a hiring assistant chatbot.  
 The emphasis is on clarity, reliability, and realistic interaction rather than feature overload.
+
