@@ -2,7 +2,7 @@ import requests
 import json
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL_NAME = "tinyllama"
+MODEL_NAME = "mistral"
 
 def generate_response(prompt: str) -> str:
     payload = {
@@ -30,3 +30,4 @@ def generate_response(prompt: str) -> str:
         print("LLM Error:", e)
         return "Sorry, I'm having trouble generating a response right now."
     
+
