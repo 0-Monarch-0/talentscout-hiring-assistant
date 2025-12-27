@@ -132,7 +132,7 @@ A short demo video demonstrates:
 - technical question flow,
 - and session completion.
 
-**Demo link:** *(add your Loom link here)*
+**Demo link:** *https://www.loom.com/share/021ee0782cf4458b8976ca16480adce4*
 
 ---
 
@@ -162,5 +162,6 @@ These enhancements were intentionally kept out of scope for this assignment.
 
 This project demonstrates a practical and controlled use of a language model within a hiring assistant chatbot.  
 The emphasis is on clarity, reliability, and realistic interaction rather than feature overload.
+
 
 
