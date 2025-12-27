@@ -112,7 +112,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 # Pull the language model
-ollama pull tinyllama
+ollama pull mistral
 
 # Run the application
 streamlit run app.py
@@ -162,4 +162,5 @@ These enhancements were intentionally kept out of scope for this assignment.
 
 This project demonstrates a practical and controlled use of a language model within a hiring assistant chatbot.  
 The emphasis is on clarity, reliability, and realistic interaction rather than feature overload.
+
 
